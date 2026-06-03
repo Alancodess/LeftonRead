@@ -1,4 +1,4 @@
-# 💔 LeftOnRead
+LeftOnRead
 
 ### Because the gym wasn't enough.
 
@@ -160,7 +160,10 @@ streamlit run app.py
 
 Add screenshots of:
 
-
+* Homepage
+* Healing Score Dashboard
+* AI Analysis Results
+* No Contact Coach
 
 ---
 
