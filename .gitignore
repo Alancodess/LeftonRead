@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 recovery_report.pdf
 data/checkins.json
+data/
