@@ -156,16 +156,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Homepage
-* Healing Score Dashboard
-* AI Analysis Results
-* No Contact Coach
-
----
 
 ## 🎯 Project Goals
 
