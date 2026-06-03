@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.env
+*.pyc
+recovery_report.pdf
+data/checkins.json
