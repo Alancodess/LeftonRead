@@ -1,6 +1,7 @@
 # LeftOnRead
 
 ### Because the gym wasn't enough.
+<img width="2537" height="1378" alt="Screenshot 2026-06-04 000305" src="https://github.com/user-attachments/assets/29edcf95-cf25-4982-9f60-4375ef5c8d27" />
 
 LeftOnRead is an AI-powered breakup recovery assistant designed to help people process emotional setbacks, gain clarity, and move forward with actionable recovery guidance.
 
